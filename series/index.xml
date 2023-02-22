@@ -6,7 +6,11 @@
     <description>Recent content in Series on Bartłomiej Borzyszkowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.borzyszkowski.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.borzyszkowski.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hugo</title>
       <link>http://www.borzyszkowski.github.io/series/hugo/</link>

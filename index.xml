@@ -6,7 +6,11 @@
     <description>Recent content on Bartłomiej Borzyszkowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.borzyszkowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.borzyszkowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Twemoji Support 🤩</title>
       <link>http://www.borzyszkowski.github.io/posts/twemoji-support/</link>
@@ -15,7 +19,7 @@
       <guid>http://www.borzyszkowski.github.io/posts/twemoji-support/</guid>
       <description>If you want to use Twitter&amp;rsquo;s Twemoji across your website, enable it in your config.toml
 [params] enableTwemoji = true This will not only give your website unified emojis across all platforms. It will also give you the latest Unicode 13 emoji set, such as 🧋🫕🛻🪗🪞.
-Emoji size changes with text size 🤩    Emoji size changes with text size 🤩    Emoji size changes with text size 🤩    Emoji size changes with text size 🤩    Emoji size changes with text size 🤩    Emoji size changes with text size 🤩     </description>
+Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩  </description>
     </item>
     
     <item>
@@ -55,13 +59,14 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.borzyszkowski.github.io/posts/theme-demo/</guid>
-      <description>Style Demo    h1 Heading    h2 Heading    h3 Heading    h4 Heading    h5 Heading    h6 Heading     This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
 This is italic text
 Deleted text
 This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
     </item>
     
     <item>
@@ -70,7 +75,7 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.borzyszkowski.github.io/posts/creating-a-new-theme/</guid>
-      <description>Introduction    This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
@@ -90,11 +95,12 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.borzyszkowski.github.io/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo    Goto hugo releases and download the appropriate version for your os and architecture.
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
-Step 2. Build the Docs    Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:</description>
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
     <item>
@@ -103,7 +109,7 @@ Follow the following steps:</description>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.borzyszkowski.github.io/posts/migrate-from-jekyll/</guid>
-      <description>Table of Contents     Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static    Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
     <item>
@@ -112,10 +118,10 @@ Follow the following steps:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.borzyszkowski.github.io/contact/</guid>
-      <description>I&amp;rsquo;m always happy to meet new, inspiring people and learn from their experience.
-If you&amp;rsquo;re looking for interesting AI projects, please visit Gradient AI Science Club, which I lead:
- gradient.eti.pg.gda.pl/en/meetings/ facebook.com/GradientPG GradientPG@gmail.com  We organize group projects and weekly technical meetings so this is the easiest way to find me.
-If you&amp;rsquo;re looking for a direct contact, please send me a message on LinkedIn.</description>
+      <description>I am always happy to meet inspiring people, learn from their experiences and collaborate.
+At EPFL, I teach software engineering in BIO-210 and brain-inspired computing in NX-414. I also supervise students in their semester projects and theses.
+If you’re interested in working with me on topics around deep learning, especially computer vision and brain-like computing, please contact me at bartlomiej.borzyszkowski@epfl.ch.
+If you&amp;rsquo;re looking for interesting team projects and want to develop your skills in artificial intelligence, please visit Gradient AI Science Club.</description>
     </item>
     
     <item>
@@ -124,11 +130,10 @@ If you&amp;rsquo;re looking for a direct contact, please send me a message on Li
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.borzyszkowski.github.io/experience/</guid>
-      <description>Please find the details of my current experience on my profile at LinkedIn.
-Education:    Gdańsk University of Technology Faculty of Electronics, Telecommunication and Informatics Department of Decision Systems and Robotics, Prof. Kowalczuk&amp;#39;s lab   MSc in Control Engineering and Robotics (2020 - present)
-Specialization: Autonomous Vehicle Technologies
-Thesis: Analysis of data from large-scale physics experiments using Spiking Neural Networks
-  BSc in Control Engineering and Robotics (2016 - 2020)</description>
+      <description>For more details on my current experience, please see my profile at LinkedIn.
+Education: EPFL, Swiss Federal Institute of Technology in Lausanne  PhD in Computer and Communication Sciences, EDIC (2022 - present)
+Specialization: Artificial Intelligence and Machine Learning
+Supervised by Prof. Alexander Mathis and Prof. Olaf Blanke  Gdańsk University of Technology Faculty of Electronics, Telecommunication and Informatics Department of Decision Systems and Robotics, Prof. Kowalczuk&amp;#39;s lab   MSc in Control Engineering and Robotics (2020 - 2021)</description>
     </item>
     
     <item>
@@ -137,8 +142,9 @@ Thesis: Analysis of data from large-scale physics experiments using Spiking Neur
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.borzyszkowski.github.io/about/</guid>
-      <description>I like to investigate and understand things around me. I seek for information, check their source and learn, especially about technology. I like to calculate, design, implement and explore. That is why I want to develop professionally towards engineering and science.
- My main research interests are centered around robotics and artificial intelligence. I know how to determine the kinematics of powerful industrial robots and design robust, adaptive control systems. I’m not afraid of hardware, but I’m aware that it wouldn’t be efficient without intelligent software systems.</description>
+      <description>I like to investigate and understand things around me. I like to calculate, design, implement and explore.
+I am a Deep Learning Software Engineer with strong academic and industrial experience in international projects centered around artificial intelligence. Currently, I work on research with Prof. Alexander Mathis and Prof. Olaf Blanke in the EDIC doctoral school in Computer and Communication Sciences at EPFL, Switzerland.
+ Prior to joining EPFL, I worked on deep learning at Intel, in the IoT and AI groups (2018-2022).</description>
     </item>
     
     <item>
