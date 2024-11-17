@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Bartek Borzyszkowski</title>
-    <link>http://www.borzyszkowski.github.io/authors/</link>
+    <link>https://borzyszkowski.github.io/authors/</link>
     <description>Recent content in Authors on Bartek Borzyszkowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.borzyszkowski.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://borzyszkowski.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -3,23 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.borzyszkowski.github.io/authors/</loc>
+    <loc>https://borzyszkowski.github.io/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.borzyszkowski.github.io/</loc>
+    <loc>https://borzyszkowski.github.io/adventures/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.borzyszkowski.github.io/categories/</loc>
+    <loc>https://borzyszkowski.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>http://www.borzyszkowski.github.io/series/</loc>
+    <loc>https://borzyszkowski.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://www.borzyszkowski.github.io/tags/</loc>
+    <loc>https://borzyszkowski.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borzyszkowski.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borzyszkowski.github.io/tags/</loc>
   </url>
   
 </urlset>
