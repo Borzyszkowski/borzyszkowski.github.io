@@ -11,18 +11,18 @@
     
     
     <item>
-      <title>About me</title>
+      <title></title>
       <link>https://borzyszkowski.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://borzyszkowski.github.io/about/</guid>
-      <description>I am a passionate Deep Learning Engineer and Technical Leader, specializing in:
+      <description>About me I am a passionate Deep Learning Engineer and Technical Leader, specializing in:
  Machine Learning: Building and deploying state-of-the-art AI models. Computer Vision: Driving advancements in real-time image processing. Software Engineering: Designing scalable and efficient software systems.  I’m deeply interested in leveraging AI to help humans and accelerate scientific discoveries.
  My Current Focus  📍 Based in Lausanne, Switzerland. 🚀 Building BeEmotion.ai, a high-tech startup at the EPFL Innovation Park.</description>
     </item>
     
     <item>
-      <title>Adventures</title>
+      <title></title>
       <link>https://borzyszkowski.github.io/adventures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
