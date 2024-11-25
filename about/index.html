@@ -20,6 +20,27 @@
     <meta property="og:url" content="https://borzyszkowski.github.io/about/">
     <meta property="og:type" content="website">
 
+    
+  <script>
+    
+    document.addEventListener('contextmenu', function(e) {
+      e.preventDefault();
+      alert('Right-click is disabled on this site.');
+    });
+
+    
+    document.addEventListener('keydown', function(e) {
+      if (
+        e.key === 'F12' ||
+        (e.ctrlKey && e.shiftKey && e.key === 'I') || 
+        (e.ctrlKey && e.key === 'U')                 
+      ) {
+        e.preventDefault();
+        alert('This action is disabled.');
+      }
+    });
+  </script>
+
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="About me"/>
 <meta name="twitter:description" content="Bartek Borzyszkowski&#39;s Personal Profile"/>
