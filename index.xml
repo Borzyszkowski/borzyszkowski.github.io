@@ -28,7 +28,18 @@
       
       <guid>https://borzyszkowski.github.io/adventures/</guid>
       <description>I love spending my free time in the great outdoors, combining active rest and adventure. In recent years, I have been drawn to the mountains, building a solid foundation in rock climbing, alpinism, alpine skiing, and ski mountaineering. I’ve been involved with:
- Swiss Alpine Club Lausanne EPFL Mountain Club CERN Ski Club AKW Trójmiasto  My journey began with the Polish Alpinism Association (PZA) in the Tatra Mountains, where I gained skills and completed courses:</description>
+ Swiss Alpine Club EPFL Mountain Club CERN Ski Club AKW Trójmiasto  My journey began with the Polish Alpinism Association (PZA) in the Tatra Mountains, where I gained skills and completed courses:</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://borzyszkowski.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borzyszkowski.github.io/research/</guid>
+      <description>My research interests combine diverse areas of machine intelligence, including robotics, computer vision, language processing, and computational neuroscience. I am particularly fascinated by integrating these fields to develop complex, multimodal intelligent systems. Ultimately, my goal is to advance algorithms that assist humans and bring us closer to Artificial General Intelligence (AGI).
+The premises of my work on machine learning are:
+ Ensuring algorithms are safe, fair, unbiased, open, and reliable. Solving real-world problems and accelerating scientific discoveries.</description>
     </item>
     
   </channel>
