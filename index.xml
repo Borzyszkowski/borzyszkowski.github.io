@@ -38,8 +38,8 @@
       
       <guid>https://borzyszkowski.github.io/research/</guid>
       <description>My research interests combine diverse areas of machine intelligence, including robotics, computer vision, language processing, and computational neuroscience. I am particularly fascinated by integrating these fields to develop complex, multimodal intelligent systems. Ultimately, my goal is to advance algorithms that assist humans and bring us closer to Artificial General Intelligence (AGI).
-Selected Repositories 🔗  AlpineLLM - A domain-specific language model for alpine storytelling 🔗
-Architected and pretrained a base language model to generate stories about alpinism DeepGrasp - Modeling digital humans with task-driven learning 🔗 Trained multi-head Graph Convolutional Networks (GCNs) to model human behavior HOPE Generator - Large-scale synthesis of human–object interactions 🔗</description>
+Selected Repositories 🔗  AlpineLLM: A domain-specific language model for alpine storytelling 🔗
+Architected and pretrained a base language model to generate stories about alpinism DeepGrasp: Modeling digital humans with task-driven learning 🔗 Trained multi-head Graph Convolutional Networks (GCNs) to model human behavior HOPE Generator: Large-scale synthesis of human–object interactions 🔗</description>
     </item>
     
   </channel>
